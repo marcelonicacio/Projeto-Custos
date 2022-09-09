@@ -1,1 +1,1 @@
-Projeto simples em React para orçamentos de uma empresa.
+Projeto simples em React para orçamentos de uma empresa
