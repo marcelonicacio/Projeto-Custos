@@ -18,97 +18,31 @@
         "id": "3",
         "name": "Design"
       },
-      "cost": 0,
-      "services": [],
+      "cost": null,
+      "services": [
+        {
+          "id": "2fce2016-14eb-451e-bbe9-185a86777b08"
+        },
+        {
+          "id": "e8a6acd0-7140-4ef0-bf4e-9865c69a6990"
+        },
+        {
+          "id": "7744ea52-b628-41e0-9aa8-8f879e748eed"
+        },
+        {
+          "id": "5af55280-d0d6-4f00-b59a-899f68970031"
+        },
+        {
+          "id": "5567b181-2d5c-4818-93be-ea7268cc82c1"
+        },
+        {
+          "id": "47079ee9-9c30-4453-a145-fe77fe4fd255"
+        },
+        {
+          "id": "adefc56d-c3a9-4e35-9296-e0ebe530377c"
+        }
+      ],
       "id": 4
-    },
-    {
-      "name": "oajoaj",
-      "budget": "5000",
-      "category": {
-        "id": "3",
-        "name": "Design"
-      },
-      "cost": 0,
-      "services": [],
-      "id": 5
-    },
-    {
-      "name": "teste",
-      "budget": "766",
-      "category": {
-        "id": "1",
-        "name": "Infra"
-      },
-      "cost": 0,
-      "services": [],
-      "id": 6
-    },
-    {
-      "name": "marcelo",
-      "budget": "766",
-      "category": {
-        "id": "1",
-        "name": "Infra"
-      },
-      "cost": 0,
-      "services": [],
-      "id": 9
-    },
-    {
-      "name": "marcelo",
-      "budget": "766",
-      "category": {
-        "id": "2",
-        "name": "Desenvolvimento"
-      },
-      "cost": 0,
-      "services": [],
-      "id": 10
-    },
-    {
-      "name": "meu projeto 3",
-      "budget": "1500",
-      "category": {
-        "id": "3",
-        "name": "Design"
-      },
-      "cost": 0,
-      "services": [],
-      "id": 13
-    },
-    {
-      "name": "rodr",
-      "budget": "400",
-      "category": {
-        "id": "2",
-        "name": "Desenvolvimento"
-      },
-      "cost": 0,
-      "services": [],
-      "id": 14
-    },
-    {
-      "name": "compras",
-      "budget": "800",
-      "category": {
-        "id": "2",
-        "name": "Desenvolvimento"
-      },
-      "cost": 0,
-      "services": [],
-      "id": 15
-    },
-    {
-      "category": {
-        "id": "4",
-        "name": "Planejamento"
-      },
-      "name": "compra",
-      "budget": "200",
-      "cost": 0,
-      "services": [],
-      "id": 16
     }
   ],
   "categories": [
